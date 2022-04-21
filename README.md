@@ -1,5 +1,5 @@
 # TRIDZ_DELVEH
-Simple script to delete vehicles.
+Simple fivem script to delete vehicles.
 
 You can change the command in line 1.
 
